@@ -1,3 +1,4 @@
+![Header](https://github.com/user-attachments/assets/0663b943-ef26-4903-a76b-527ed1ca79fd)
 <h1 align="center">Hello World!👋, I'm Nusrat Jahan Chaiti</h1>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NCGC9pN10cTacXQpBq7PvA.gif" width="400" />
@@ -25,11 +26,14 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nusratjahanchaiti&icon=0&color=0)](https://visitcount.itsvg.in)
+⚠️Note: The Top Languages section only reflects the most common languages used in my public repositories — it’s not a measure of my proficiency or experience.
+
 
 # 👑Inspired by the first programmer—and the first to imagine more
 
 ![image](https://github.com/user-attachments/assets/11943fa0-fa43-4343-b7a2-12343d36adfc)
 
+## 🐍 Fun Fact: Watch my contribution graph get devoured by a hungry snake!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" />
