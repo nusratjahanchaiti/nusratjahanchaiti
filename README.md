@@ -29,3 +29,9 @@
 # 👑Inspired by the first programmer—and the first to imagine more
 
 ![image](https://github.com/user-attachments/assets/11943fa0-fa43-4343-b7a2-12343d36adfc)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" />
+</picture>
