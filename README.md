@@ -1,5 +1,3 @@
-![C](https://github.com/user-attachments/assets/6543e291-b85e-45f5-aaa3-904d11fc1cac)
-
 <h1 align="center">Hello World!👋, I'm Nusrat Jahan Chaiti</h1>
 <h3 align="center">A passionate Computer Engineering Student</h3>
 <img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NCGC9pN10cTacXQpBq7PvA.gif" width="400" />
