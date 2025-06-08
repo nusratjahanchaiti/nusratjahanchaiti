@@ -25,10 +25,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nusratjahanchaiti&icon=0&color=0)](https://visitcount.itsvg.in)
-⚠️Note: The Top Languages section only reflects the most common languages used in my public repositories — it’s not a measure of my proficiency or experience.
+
+Note: The Top Languages section only reflects the most common languages used in my public repositories — it’s not a measure of my proficiency or experience.
 
 
-# 👑Inspired by the first programmer—and the first to imagine more
+# Inspired by the first programmer—and the first to imagine more
 
 ![image](https://github.com/user-attachments/assets/11943fa0-fa43-4343-b7a2-12343d36adfc)
 
