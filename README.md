@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratjahanchaiti&label=Profile%20views&color=0e75b6&style=flat" alt="nusratjahanchaiti" /> </p>
 
+- 👩‍💻 I’m currently learning
+   - **Software Engineering, Computer Architecture, Database Systems**
 - 📫 How to reach me **nusratjchaiti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,14 +26,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nusratjahanchaiti&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nusratjahanchaiti&icon=0&color=0)](https://visitcount.itsvg.in)Note: The Top Languages section only reflects the most common languages used in my public repositories — it’s not a measure of my proficiency or experience.
 
-Note: The Top Languages section only reflects the most common languages used in my public repositories — it’s not a measure of my proficiency or experience.
-
-
-# Inspired by the first programmer—and the first to imagine more
-
-![image](https://github.com/user-attachments/assets/11943fa0-fa43-4343-b7a2-12343d36adfc)
 
 ## 🐍 Fun Fact: Watch my contribution graph get devoured by a hungry snake!
 <picture>
