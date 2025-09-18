@@ -1,10 +1,12 @@
 <h1 align="center">Hello World!👋, I'm Nusrat Jahan Chaiti</h1>
-<h3 align="center">A passionate Computer Engineering Student</h3>
+
+
 <img align="right" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*NCGC9pN10cTacXQpBq7PvA.gif" width="400" />
 
 
 
-###  👩‍💻 About Me
+## About Me
+I’m a Computer Science and Engineering student at East West University, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
 -  I’m currently learning
    - **Software Testing and Quality Assurance, Computer Architecture, Computer Networks**
 - 📫 How to reach me **nusratjchaiti@gmail.com**
