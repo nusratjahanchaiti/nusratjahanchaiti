@@ -1,15 +1,25 @@
 <h1 align="center">
-  Hello World! 👋 I'm Nusrat Jahan Chaiti
+  Hello World! I'm Nusrat Jahan Chaiti
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=EAEAEA&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Major;Web+Developer+in+Progress;Always+Learning+%E2%9C%A8" /> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=EAEAEA&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Major;Web+Developer+in+Progress;Always+Learning+✨" />
+</p>
 
-## 👩‍💻 About Me
+<p align="center">
+  ─── ✿ ───
+</p>
+
+<p align="center">
+  <img src="assets/coding.gif" width="300" alt="Coding GIF" />
+</p>
+
+
+## About Me
 
 I’m a Computer Science and Engineering student at East West University, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
 
-### 🌱 Currently Learning
+### Currently Learning
 - Web Programming  
 - Artificial Intelligence  
 - Software Architecture  
@@ -46,30 +56,18 @@ I’m a Computer Science and Engineering student at East West University, majori
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusratjahanchaiti&show_icons=true&theme=dark" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nusratjahanchaiti&theme=dark" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&layout=compact&theme=dark"/>
-</p>
-
-> ⚠️ *Top Languages reflects public repository usage only — not skill level.*
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Stats:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" />
-</picture>
+![](https://github-readme-stats.vercel.app/api?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nusratjahanchaiti&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img src="https://visitcount.itsvg.in/api?id=nusratjahanchaiti&icon=0&color=0" />
-</p>
+> ✎ *Top Languages reflects public repository usage only — not skill level.*
+
+---
+
+## 🐍 Fun Fact: Watch my contribution graph get devoured by a hungry snake!
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> </picture>
