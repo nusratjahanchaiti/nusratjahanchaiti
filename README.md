@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ─── ✿ ───
+  <img src="assets/bee-divider.png" width="25%" alt="Bee Sketch Divider" />
 </p>
 
 <p align="center">
@@ -25,7 +25,6 @@ I’m a Computer Science and Engineering student at East West University, majori
 - Software Architecture  
 - International Relations  
 
----
 
 ## 💻 Tech Stack
 
@@ -57,16 +56,11 @@ I’m a Computer Science and Engineering student at East West University, majori
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nusratjahanchaiti&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 > ✎ *Top Languages reflects public repository usage only — not skill level.*
-
----
 
 ## 🐍 Fun Fact: Watch my contribution graph get devoured by a hungry snake!
 
