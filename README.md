@@ -1,23 +1,23 @@
-<h1 align="center">
-  Hello World! I'm Nusrat Jahan Chaiti
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=EAEAEA&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Major;Web+Developer+in+Progress;Always+Learning+✨" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=999999&color=00FF00&center=true&vCenter=true&width=800&lines=>+Hello+World!+I'm+Nusrat+Jahan+Chaiti" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+Computer+Science+Engineering+Student;%3E+Software+Engineering+Major;%3E+Web+Developer+in+Progress;%3E+Always+Learning..." />
 </p>
 
+
 <p align="center">
-  <img src="assets/bee-divider.png" width="25%" alt="Bee Sketch Divider" />
+  <img src="assets/bee-divider.png" width="35%" alt="Bee Sketch Divider" />
 </p>
 
 <p align="center">
   <img src="assets/coding.gif" width="300" alt="Coding GIF" />
 </p>
 
-
 ## About Me
 
-I’m a Computer Science and Engineering student at East West University, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
+I’m a Computer Science and Engineering student at **East West University**, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
+
+
+<img align="right" src="assets/anya.png" width="250" alt="Anya PNG" />
+
 
 ### Currently Learning
 - Web Programming  
@@ -25,6 +25,13 @@ I’m a Computer Science and Engineering student at East West University, majori
 - Software Architecture  
 - International Relations  
 
+<br clear="right"/>
+
+
+
+## Social & Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nusratjahanchaiti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nusrat-jahan-chaiti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratjchaiti@gmail.com)
 
 ## 💻 Tech Stack
 
@@ -54,7 +61,12 @@ I’m a Computer Science and Engineering student at East West University, majori
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Documentation & Writing
+<p> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> </p>
 
 ## 📊 GitHub Stats:
 
