@@ -11,7 +11,9 @@
   <img src="assets/coding.gif" width="300" alt="Coding GIF" />
 </p>
 
-## About Me
+<h2 align="left">
+  <img src="assets/me.png" width="40" alt="About Icon" /> About me
+</h2>
 
 I’m a Computer Science and Engineering student at **East West University**, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
 
@@ -20,20 +22,25 @@ I’m a Computer Science and Engineering student at **East West University**, ma
 
 
 ### Currently Learning
+
 - Web Programming  
 - Artificial Intelligence  
 - Software Architecture  
-- International Relations  
+- International Relations
 
 <br clear="right"/>
 
 
 
-## Social & Contact
+<h2 align="left">
+  <img src="assets/social.png" width="40" alt="Social Icon" /> Social & Contact
+</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nusratjahanchaiti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nusrat-jahan-chaiti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratjchaiti@gmail.com)
 
-## 💻 Tech Stack
+<h2 align="left">
+  <img src="assets/computer.png" width="40" alt="Tech Icon" /> Tech Stack
+</h2>
 
 ###  Programming & Web
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -74,6 +81,8 @@ I’m a Computer Science and Engineering student at **East West University**, ma
 
 > ✎ *Top Languages reflects public repository usage only — not skill level.*
 
-## 🐍 Fun Fact: Watch my contribution graph get devoured by a hungry snake!
+<h2 align="left">
+  <img src="assets/snake.png" width="40" alt="Snake Icon" /> Watch my contribution graph get devoured by a hungry snake!
+</h2>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> </picture>
