@@ -1,5 +1,7 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=999999&color=00FF00&center=true&vCenter=true&width=800&lines=>+Hello+World!+I'm+Nusrat+Jahan+Chaiti" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+Computer+Science+Engineering+Student;%3E+Software+Engineering+Major;%3E+Web+Developer+in+Progress;%3E+Always+Learning..." />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=999999&color=00FF00&center=true&vCenter=true&width=800&lines=>+Hello+World!+I'm+Nusrat+Jahan+Chaiti" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&pause=1200&color=EAEAEA&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Software+Engineering+Major;Web+Developer+in+Progress;Always+Learning+✨" />
 </p>
 
 
@@ -11,9 +13,7 @@
   <img src="assets/coding.gif" width="300" alt="Coding GIF" />
 </p>
 
-<h2 align="left">
-  <img src="assets/me.png" width="90" alt="About Icon" /> About me
-</h2>
+## About me
 
 I’m a Computer Science and Engineering student at **East West University**, majoring in **Software Engineering**, with a strong knowledge in software development, problem-solving, and modern programming practices.
 
@@ -32,16 +32,11 @@ I’m a Computer Science and Engineering student at **East West University**, ma
 
 
 
-<h2 align="left">
-  <img src="assets/social.png" width="90" alt="Social Icon" /> Social & Contact
-</h2>
+## 📧 Social & Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nusratjahanchaiti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nusrat-jahan-chaiti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nusratjchaiti@gmail.com)
 
-<h2 align="left">
-  <img src="assets/computer.png" width="90" alt="Tech Icon" /> Tech Stack
-</h2>
-
+## 💻 Tech Stack
 
 ###  Programming & Web
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -76,14 +71,16 @@ I’m a Computer Science and Engineering student at **East West University**, ma
 ## Documentation & Writing
 <p> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" /> </p>
 
+
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=nusratjahanchaiti&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nusratjahanchaiti&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nusratjahanchaiti&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahanchaiti&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 > ✎ *Top Languages reflects public repository usage only — not skill level.*
 
-<h2 align="left">
-  <img src="assets/snake.png" width="90" alt="Snake Icon" /> Watch my contribution graph get devoured by a hungry snake!
-</h2>
+## 🐍 Watch my contribution graph get devoured by a hungry snake!
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/nusratjahanchaiti/nusratjahanchaiti/output/github-snake.svg" /> </picture>
